@@ -1,4 +1,4 @@
-<img width="630" height="81" alt="image" src="https://github.com/user-attachments/assets/a2cdfc86-8642-44d3-994d-e1297a942007" /><img width="347" height="81" alt="image" src="https://github.com/user-attachments/assets/2f3567fb-ffc0-408e-bc86-254ed08f15eb" /><img width="818" height="81" alt="image" src="https://github.com/user-attachments/assets/f751f5fd-3bea-43f3-8299-7bb192fa6848" /># S-ART-Project-Satellite-Attitude-Control
+# S-ART-Project-Satellite-Attitude-Control
 The following are all the files that are related to the attitude determination and control system of the S-ART (Student Astronomical Radio Telescope) project's cubesat. This repository contains a the file required to run a dynamic simulator between the following subsystems:
 
 • Orbital Propagation: Handles eccentric orbits considering the Earth's J2 flattening (precession) and atmospheric
